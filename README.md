@@ -1,38 +1,37 @@
 <p align="center">
-  <img src="https://vercel.app👾&fontSize=50&fontColor=ffffff&animation=twinkling" />
+  <img src="https://vercel.app☠️&fontSize=65&fontColor=4a0072&animation=twinkling" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com👁️+CONJURACOES+DE+VISITA" />
+  <img src="https://komarev.com👁️+SOUL+COUNT" />
 </p>
 
+## 🌑 Welcome to the Necropolis
+
 ```text
-▲ Arch User btw
-▲ Coding in the shadows
-▲ Crafting logic from chaos
+💀 Arch User btw
+💀 Coding in the abyssal zone
+💀 Extracting logic from dead packages
 ```
 
 ---
 
-### 🔮 Missivas Arcanas
-- 🎓 **Estudante de Engenharia de Software** explorando sistemas e lógicas.
-- 💻 Desenvolvendo feitiços digitais puramente com **Python** e **JavaScript**.
-- 🐧 Habitante orgulhosa do ecossistema **Arch Linux** (meu terminal é minha torre).
-- 🤖 Criando automações ocultas e ferramentas inteligentes.
+### 🌌 Diretrizes e Escopo
+* 🎓 **Estudante de Engenharia de Software** analisando sistemas e lógicas binárias.
+* 💻 Desenvolvendo aplicações funcionais puramente através de **Python** e **JavaScript**.
+* 🐧 Operando nativamente no ecossistema **Arch Linux** (o terminal escuro é minha base).
+* 🤖 Construindo automações em segundo plano e scripts utilitários.
 
 ---
 
-### 🛠️ Grimório Tecnológico
-<p align="left">
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</p>
+### 🛠️ Core Stack (Ambiente de Trabalho)
+* **Linguagens:** Python 🐍, JavaScript ⚡
+* **Core OS:** Arch Linux 🐧
+* **IDE:** VS Code 🚀
 
 ---
 
-### 📊 Estatísticas Ocultas
+### 📊 Métricas de Atividade
 
 <p align="center">
   <img src="https://vercel.app" />
@@ -48,4 +47,4 @@
 
 <br>
 
-<blockquote align="center">"O grimório do tempo vira mais uma página. Que este novo capítulo da jornada seja cheio de tesouros." 🧙‍♂️☠️</blockquote>
+<blockquote align="center">"Do caos binário, a ordem absoluta." 💻🌑</blockquote>
