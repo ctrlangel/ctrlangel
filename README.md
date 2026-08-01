@@ -5,24 +5,24 @@
       /  \       ---------------
      /\   \      os: arch linux (btw)
     /      \     kernel: linux-zen
-   /   ,,   \    uptime: ativo até o próximo pacman -syu
-  /   |  |   \   shell: bash / clear a cada 5 segundos
+   /   ,,   \    uptime: up until the next pacman -syu
+  /   |  |   \   shell: bash / typing 'clear' every 5 seconds
  /_''    ''_\    ide: vs code (dark mode)
 ```
 
 ---
 
-### 🌌 sobre mim
-* 🎓 Estudando **Engenharia de Software** e tentando entender o que o terminal quer de mim quando joga 30 linhas de erro na tela.
-* 💻 Escrevendo alguns scripts em **Python** e **JavaScript** no escuro.
-* 🔋 Sobrevivendo aos prazos na base do café extra forte e latas de Monster roxo acumuladas na mesa.
-* 🤖 Criando automações em segundo plano só para não ter o trabalho de fazer a mesma tarefa manual duas vezes.
+### 🌌 about me
+* 🎓 Studying **Software Engineering** and trying to figure out what the terminal wants from me when it throws 30 lines of error on the screen.
+* 💻 Writing some **Python** and **JavaScript** scripts in the dark.
+* 🔋 Surviving deadlines fueled by extra strong coffee and purple Monster cans piling up on my desk.
+* 🤖 Creating background automations just to avoid the hassle of doing the same manual task twice.
 
 ---
 
-### 🛠️ ferramentas
-* **Linguagens:** Python, JavaScript
-* **Sistema:** Arch Linux (btw)
+### 🛠️ tools
+* **Languages:** Python, JavaScript
+* **OS:** Arch Linux (btw)
 * **Editor:** VS Code
 
 ---
