@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="https://vercel.app☠️&fontSize=65&fontColor=4a0072&animation=twinkling" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com👁️+SOUL+COUNT" />
-</p>
-
-## 🌑 Welcome to the Necropolis
+# 🌑 ANGEL | ctrlangel
 
 ```text
 💀 Arch User btw
@@ -25,26 +17,10 @@
 ---
 
 ### 🛠️ Core Stack (Ambiente de Trabalho)
-* **Linguagens:** Python 🐍, JavaScript ⚡
-* **Core OS:** Arch Linux 🐧
-* **IDE:** VS Code 🚀
+* **Linguagens:** Python, JavaScript
+* **Core OS:** Arch Linux
+* **IDE:** VS Code
 
 ---
-
-### 📊 Métricas de Atividade
-
-<p align="center">
-  <img src="https://vercel.app" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" />
-</p>
-
-<br>
 
 <blockquote align="center">"Do caos binário, a ordem absoluta." 💻🌑</blockquote>
