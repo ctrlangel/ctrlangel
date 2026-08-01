@@ -1,26 +1,29 @@
-# 🌑 ANGEL | ctrlangel
+# 🌑 angel / ctrlangel
 
 ```text
-💀 Arch User btw
-💀 Coding in the abyssal zone
-💀 Extracting logic from dead packages
+       /\        angel@archlinux
+      /  \       ---------------
+     /\   \      os: arch linux (btw)
+    /      \     kernel: linux-zen
+   /   ,,   \    uptime: ativo até o próximo pacman -syu
+  /   |  |   \   shell: bash / clear a cada 5 segundos
+ /_''    ''_\    ide: vs code (dark mode)
 ```
 
 ---
 
-### 🌌 Diretrizes e Escopo
-* 🎓 **Estudante de Engenharia de Software** analisando sistemas e lógicas binárias.
-* 💻 Desenvolvendo aplicações funcionais puramente através de **Python** e **JavaScript**.
-* 🐧 Operando nativamente no ecossistema **Arch Linux** (o terminal escuro é minha base).
-* 🤖 Construindo automações em segundo plano e scripts utilitários.
+### 🌌 sobre mim
+* 🎓 Estudando **Engenharia de Software** e tentando entender o que o terminal quer de mim quando joga 30 linhas de erro na tela.
+* 💻 Escrevendo alguns scripts em **Python** e **JavaScript** no escuro.
+* 🔋 Sobrevivendo aos prazos na base do café extra forte e latas de Monster roxo acumuladas na mesa.
+* 🤖 Criando automações em segundo plano só para não ter o trabalho de fazer a mesma tarefa manual duas vezes.
 
 ---
 
-### 🛠️ Core Stack (Ambiente de Trabalho)
+### 🛠️ ferramentas
 * **Linguagens:** Python, JavaScript
-* **Core OS:** Arch Linux
-* **IDE:** VS Code
+* **Sistema:** Arch Linux (btw)
+* **Editor:** VS Code
 
 ---
-
-<blockquote align="center">"Do caos binário, a ordem absoluta." 💻🌑</blockquote>
+<blockquote align="center">"Talk is cheap. Show me the code." — Linus Torvalds 💻🐧</blockquote>
