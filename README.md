@@ -48,10 +48,6 @@
   <img src="https://herokuapp.com" />
 </p>
 
-<p align="center">
-  <img src="https://vercel.app" />
-</p>
-
 <br>
 
 <blockquote align="center">"O grimório do tempo vira mais uma página. Que este novo capítulo da jornada seja cheio de tesouros." 🧙‍♂️☠️</blockquote>
