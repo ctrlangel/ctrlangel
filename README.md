@@ -6,8 +6,6 @@
   <img src="https://komarev.com👁️+CONJURACOES+DE+VISITA" />
 </p>
 
-## 🌌 Welcome to the Void
-
 ```text
 ▲ Arch User btw
 ▲ Coding in the shadows
