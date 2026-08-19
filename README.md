@@ -1,7 +1,7 @@
 # 🌑 angel / ctrlangel
 
 ```text
-       /\        angel@archlinux
+       /\        Morgana@archlinux
       /  \       ---------------
      /\   \      os: arch linux (btw)
     /      \     kernel: linux-zen
