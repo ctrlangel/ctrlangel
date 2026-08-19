@@ -1,28 +1,24 @@
-# 🌑 angel / ctrlangel
-
 ```text
-       /\        Morgana@archlinux
-      /  \       ---------------
-     /\   \      os: arch linux (btw)
-    /      \     kernel: linux-zen
-   /   ,,   \    uptime: up until the next pacman -syu
-  /   |  |   \   shell: bash / typing 'clear' every 5 seconds
- /_''    ''_\    ide: vs code (dark mode)
-```
+      (  )   (  )
+       )  )   )  )
+      (  (   (  (
+    .----------.
+   |            |--.
+   |            |  |
+   |            |--'
+    \          /
+     `--------`
+
+## About Me
+
+* Software Engineering student trying to negotiate with the terminal when it throws 30 lines of errors.
+* Writing Python and JavaScript scripts in the dark, fueled by way too much coffee (but you could say that idea "co-fee-tou" really well!).
+* Creating background automations just to avoid the hassle of doing the same manual task twice.
+
+## Tools
+
+* Languages: Python, JavaScript, HTML/CSS
+* Editor: VS Code
 
 ---
-
-### 🌌 about me
-* 🎓 Studying **Software Engineering** and trying to figure out what the terminal wants from me when it throws 30 lines of error on the screen.
-* 💻 Writing some **Python** and **JavaScript** scripts in the dark.
-* 🔋 Surviving deadlines fueled by extra strong coffee and purple Monster cans piling up on my desk.
-* 🤖 Creating background automations just to avoid the hassle of doing the same manual task twice.
-
----
-
-### 🛠️ tools
-* **Languages:** Python, JavaScript
-* **Editor:** VS Code
-
----
-<blockquote align="center">"Talk is cheap. Show me the code." — Linus Torvalds 💻🐧</blockquote>
+"Talk is cheap. Show me the code." — Linus Torvalds 💻🐧
