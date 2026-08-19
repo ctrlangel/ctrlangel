@@ -22,7 +22,6 @@
 
 ### 🛠️ tools
 * **Languages:** Python, JavaScript
-* **OS:** Arch Linux (btw)
 * **Editor:** VS Code
 
 ---
